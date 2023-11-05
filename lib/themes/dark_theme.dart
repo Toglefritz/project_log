@@ -6,7 +6,7 @@ ThemeData darkTheme = ThemeData(
   // The brightness of the theme.
   brightness: Brightness.dark,
   // The primary color of the theme.
-  primaryColor: Colors.white12,
+  primaryColor: Colors.white70,
   // The default text style for the app.
   fontFamily: GoogleFonts.spaceMono().fontFamily,
 );

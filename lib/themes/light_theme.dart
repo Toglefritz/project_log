@@ -5,7 +5,7 @@ ThemeData lightTheme = ThemeData(
   // The brightness of the theme.
   brightness: Brightness.light,
   // The primary color of the theme.
-  primaryColor: Colors.black12,
+  primaryColor: Colors.black87,
   // Whether to use Material 3.
   useMaterial3: true,
 );
