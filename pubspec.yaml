@@ -12,6 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # A Flutter package to use fonts from fonts.google.com.
+  google_fonts: ^6.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

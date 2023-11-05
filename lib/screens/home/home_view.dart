@@ -10,6 +10,7 @@ class HomeView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Projects'),
+        centerTitle: false,
       ),
       body: Center(
         child: Column(
